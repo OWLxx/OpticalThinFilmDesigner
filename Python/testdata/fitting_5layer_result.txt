@@ -1,0 +1,99 @@
+powell   https://en.wikipedia.org/wiki/Powell%27s_method
+[[Fit Statistics]]
+    # function evals   = 385
+    # data points      = 1
+    # variables        = 5
+    chi-square         = 1.437
+    reduced chi-square = 1.437
+    Akaike info crit   = 10.363
+    Bayesian info crit = 0.363
+[[Variables]]
+    layer0:   82.6666762 (init= 69)
+    layer1:   86.6441121 (init= 94)
+    layer2:   10         (init= 27)
+    layer3:   5          (init= 10)
+    layer4:   100        (init= 138)
+    layer5:   1e+07 (fixed)   
+
+Truncated-newtono algorithms for large-scale unconstrained optimization
+[[Fit Statistics]]
+    # function evals   = 128
+    # data points      = 1
+    # variables        = 5
+    chi-square         = 2.650
+    reduced chi-square = 2.650
+    Akaike info crit   = 10.974
+    Bayesian info crit = 0.974
+[[Variables]]
+    layer0:   83.3138429 (init= 69)
+    layer1:   91.9208651 (init= 94)
+    layer2:   25.1236389 (init= 27)
+    layer3:   5.00087685 (init= 10)
+    layer4:   135.282353 (init= 138)
+    layer5:   1e+07 (fixed)
+
+¡®slsqp¡¯: Sequential Linear Squares Programming   
+# 0 degree
+[[Fit Statistics]]
+    # function evals   = 218
+    # data points      = 1
+    # variables        = 5
+    chi-square         = 1.437
+    reduced chi-square = 1.437
+    Akaike info crit   = 10.362
+    Bayesian info crit = 0.362
+[[Variables]]
+    layer0:   82.6567116 (init= 69)
+    layer1:   86.6379087 (init= 94)
+    layer2:   10.0000011 (init= 27)
+    layer3:   5.00000028 (init= 10)
+    layer4:   100.000005 (init= 138)
+    layer5:   1e+07 (fixed)
+[[Fit Statistics]]
+    # function evals   = 151
+    # data points      = 1
+    # variables        = 5
+    chi-square         = 3.225
+    reduced chi-square = 3.225
+    Akaike info crit   = 11.171
+    Bayesian info crit = 1.171
+[[Variables]]
+    layer0:   80.0234469 (init= 69)
+    layer1:   87.9040064 (init= 94)
+    layer2:   10.0000049 (init= 27)
+    layer3:   5.00001660 (init= 10)
+    layer4:   106.797807 (init= 138)
+    layer5:   1e+07 (fixed)
+# ¡®lbfgsb¡¯: L-BFGS-B
+[[Fit Statistics]]
+    # function evals   = 781
+    # data points      = 1
+    # variables        = 5
+    chi-square         = 1.437
+    reduced chi-square = 1.437
+    Akaike info crit   = 10.362
+    Bayesian info crit = 0.362
+[[Variables]]
+    layer0:   82.6567846 (init= 69)
+    layer1:   86.6378146 (init= 94)
+    layer2:   10.0000000 (init= 27)
+    layer3:   5.00000003 (init= 10)
+    layer4:   100.000002 (init= 138)
+    layer5:   1e+07 (fixed)
+
+[[Fit Statistics]]
+    # function evals   = 523
+    # data points      = 1
+    # variables        = 5
+    chi-square         = 3.225
+    reduced chi-square = 3.225
+    Akaike info crit   = 11.171
+    Bayesian info crit = 1.171
+[[Variables]]
+    layer0:   79.9931942 (init= 69)
+    layer1:   87.9066669 (init= 94)
+    layer2:   10.0000000 (init= 27)
+    layer3:   5.00000003 (init= 10)
+    layer4:   106.361666 (init= 138)
+    layer5:   1e+07 (fixed)
+

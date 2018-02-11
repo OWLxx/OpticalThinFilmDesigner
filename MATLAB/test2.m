@@ -1,0 +1,11 @@
+z=1000e-9;
+lambda=500e-9;
+s=2*pi*z;
+alfa=exp(-2*(s/lambda)^2)
+beita=exp(-2*(s/lambda*1.5)^2)
+cont=exp(-1/2*(s/lambda)^2*0.5^2)
+delta11=1./cont
+delta12=beita/cont
+delta21=alfa/cont
+delta22=cont
+delta222=alfa*beita/cont
